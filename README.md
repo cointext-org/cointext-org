@@ -3,7 +3,6 @@ context for every coin
 
 # 🧠 Cointext — Context for Every Coin
 
-**Project for Virtuals Ethereum AI Hackathon 2025**  
 > “The Knowledge Engine for Web3 — powering AIBRK, fudcan, Virtuals, Base, BSC, Algorand, and beyond.”
 
 ---
