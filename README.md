@@ -1,5 +1,5 @@
 # cointext-org
-context for every coin
+Context for every coin.
 
 # 🧠 Cointext — Context for Every Coin
 
@@ -12,7 +12,7 @@ context for every coin
 **Cointext** is an **AI-powered knowledge base and autonomous Web3 intelligence agent** — providing **real-time context for every coin, wallet, and protocol** across Ethereum L1/L2s.
 
 It merges **AI reasoning, on-chain data, and the Virtuals ACP ecosystem** to make DeFi and Web3 knowledge accessible, actionable, and autonomous.  
-Whether you're asking *“What’s trending on Virtuals today?”* or *“Analyze wallet 0x123…”*, Cointext delivers precise, conversational insights in seconds.
+Whether you're asking *“What’s trending on Virtuals today?”*, *“Analyze wallet 0x123…”*, or *“Smart money movements on base”*, Cointext delivers precise, conversational insights in seconds.
 
 ---
 
