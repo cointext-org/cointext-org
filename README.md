@@ -3,7 +3,7 @@ Context for every coin.
 
 # 🧠 Cointext — Context for Every Coin
 
-> “The Knowledge Engine for Web3 — powering AIBRK, fudcan, Virtuals, Base, BSC, Algorand, and beyond.”
+> “The AI base for Web3 — powering Ethereum, base, x402, Virtuals, BSC, Algorand, and beyond.”
 
 ---
 
